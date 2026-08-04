@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner/ai-automation-lab-banner.png" alt="AI Automation Lab Banner" width="100%">
+</p>
+
 # 🤖 AI Automation Lab
 
 > **Building a reusable, self-hosted AI Automation Platform for Enterprise Workflows, Local AI, and Intelligent Business Process Automation.**
