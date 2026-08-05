@@ -181,6 +181,25 @@ By building the platform incrementally, every phase becomes a practical demonstr
 
 ---
 
+---
+
+## ✅ Phase 2 – Local AI Models
+
+In this phase, I added local AI capability to the platform using Ollama.
+
+### Completed
+
+- Installed Ollama on Windows
+- Verified Ollama version `0.32.5`
+- Downloaded the Llama 3.2 local language model
+- Successfully ran the model from PowerShell
+- Tested local AI inference without using an external API
+
+### Result
+
+The platform can now run a local large language model directly on the computer, creating the foundation for AI-powered n8n workflows.
+
+**Status:** Completed
 # 🚀 What's Next?
 
 The next phase will introduce:
